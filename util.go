@@ -20,6 +20,7 @@ import (
 )
 
 var (
+	// 默认的prefix
 	Prefix = "service"
 )
 
